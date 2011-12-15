@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/lge/thunderg" name="adfad666/cm7_device_lge_thunderg" remote="github" revision="gingerbread" />
+  <project path="vendor/lge/thunderg" name="adfad666/cm7_vendor_lge_thunderg" remote="github" revision="gingerbread" />
+</manifest>
